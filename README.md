@@ -1,8 +1,8 @@
 # AI-chatbot
 <h2>This project is a Retrieval-Augmented Generation (RAG) Chatbot, which combines two powerful approaches: retrieval-based and generative-based models to provide accurate and conversational responses.</h2>
 
-How It Works:
-User Input: The user asks a question in the chatbot interface.
+<h4>How It Works:</h4>
+<p>User Input: The user asks a question in the chatbot interface.</p>
 Retrieve Information: The chatbot searches a knowledge base or external data source to find the most relevant information related to the question.
 Generate a Response: Using this information, the chatbot creates a natural, human-like response that is accurate and based on facts.
 Reply to User: The chatbot returns the generated response to the user in a conversational way.
